@@ -28,7 +28,7 @@ The purpose of this project is to explore patterns in autism prevalence and high
 - PowerPoint  
 
 ## Data Source
-The data used in this project was obtained as a publicly available CSV file titled **Prevalence Estimates Over Time**, covering the years 2000 through 2022.
+The data used in this project was obtained as a publicly available CSV file titled **Prevalence Estimates Over Time** from the CDC , covering the years 2000 through 2022.
 
 ## Acknowledgments
 OpenAI ChatGPT was used to assist with Python code formatting, explanations, and notebook organization.
